@@ -29,3 +29,9 @@ yarn-error.log*
 
 .now
 .vercel
+*.css
+src/styles/blog.module.css
+src/styles/contact.module.css
+src/styles/global.css
+src/styles/header.module.css
+src/styles/shared.module.css
